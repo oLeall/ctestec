@@ -1,1 +1,1 @@
-void adivinhei();
+void adivinha();

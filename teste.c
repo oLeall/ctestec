@@ -2,5 +2,5 @@
 #include "uiui.h"
 
 int main(){
-    adivinhei();
+    adivinha();
 }
